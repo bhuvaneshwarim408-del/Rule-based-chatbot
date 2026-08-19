@@ -11,7 +11,7 @@ A simple chatbot built in Python that responds to user messages based on keyword
 - Says goodbye and exits on command
 
 ### How to run
-python chatbot.py
+chatbot.py
 
 ### About
 This project was built as part of my CodSoft Artificial Intelligence Internship.
